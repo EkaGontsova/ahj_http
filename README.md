@@ -134,4 +134,4 @@ P.S. Подгрузка подробного описания специальн
 информации нет смысла делать её отдельно.
 
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/k4yd0b5j13twrstt?svg=true)](https://ci.appveyor.com/project/EkaGontsova/ahj_http_back)
+[![Build status](https://ci.appveyor.com/api/projects/status/k4yd0b5j13twrstt?svg=true)](https://ci.appveyor.com/project/EkaGontsova/ahj_http)
